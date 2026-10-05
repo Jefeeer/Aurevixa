@@ -10,7 +10,8 @@ export const markPaths = {
 };
 
 export const CONTACT = {
-  email: "karljason.ochava@gmail.com",
-  phoneDisplay: "0976 161 8246",
-  phoneHref: "tel:+639761618246",
+  email: "aurevixa.official@gmail.com",
+  phoneDisplay: "0976 473 6789",
+  phoneHref: "tel:+639764736789",
+  facebook: "https://www.facebook.com/profile.php?id=61594953698330",
 };

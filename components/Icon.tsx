@@ -2,7 +2,7 @@ export type IconName =
   | "arrow" | "inbox" | "user" | "chart" | "keyboard" | "unlink" | "clock" | "eye" | "legacy"
   | "rocket" | "code" | "spark" | "globe" | "phone" | "flow" | "plug" | "cloud" | "grid" | "chat"
   | "scan" | "check" | "bell" | "pulse" | "doc" | "play" | "target" | "loop" | "team" | "shield"
-  | "mail" | "call";
+  | "mail" | "call" | "facebook";
 
 export function Icon({ name, className = "i" }: { name: IconName; className?: string }) {
   return (

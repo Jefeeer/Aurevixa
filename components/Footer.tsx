@@ -27,6 +27,7 @@ export default function Footer() {
           <h4>Talk to us</h4>
           <a href={`mailto:${CONTACT.email}`}>{CONTACT.email}</a>
           <a href={CONTACT.phoneHref}>{CONTACT.phoneDisplay}</a>
+          <a href={CONTACT.facebook} target="_blank" rel="noopener noreferrer">Facebook</a>
           <a href="#contact">Start a project →</a>
         </div>
       </div>

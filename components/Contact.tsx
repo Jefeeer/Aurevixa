@@ -71,6 +71,10 @@ export default function Contact() {
               <span className="ccard__icon"><Icon name="call" /></span>
               <span><small>Phone</small><b>{CONTACT.phoneDisplay}</b></span>
             </a>
+            <a className="ccard" href={CONTACT.facebook} target="_blank" rel="noopener noreferrer">
+              <span className="ccard__icon"><Icon name="facebook" /></span>
+              <span><small>Facebook</small><b>Aurevixa on Facebook</b></span>
+            </a>
           </div>
         </div>
 
